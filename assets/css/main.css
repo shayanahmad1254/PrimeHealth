@@ -532,13 +532,10 @@ h6 {
 
 .footer .footer-about .logo {
   line-height: 1;
-  margin-bottom: 25px;
+  margin-bottom: 10px;
 }
 
-.footer .footer-about .logo img {
-  max-height: 40px;
-  margin-right: 6px;
-}
+
 
 .footer .footer-about .logo span {
   color: var(--heading-color);
